@@ -1,7 +1,9 @@
 ### swc-node ESM Memory Leak
 
 Fedora 38
+
 Kernel: Linux 6.2.11-300.fc38.x86_64
+
 Node v20.0.0
 
 Only occurs with ESM, likely due to the breaking changes introduced in Node v20

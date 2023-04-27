@@ -1,0 +1,14 @@
+{
+  "name": "swc-node-esm-memory-leak",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Ari Gibson",
+  "license": "ISC",
+  "devDependencies": {
+    "@swc-node/register": "^1.6.5",
+    "typescript": "^5.0.4"
+  }
+}
